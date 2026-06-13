@@ -42,4 +42,4 @@
 
 ![Screenshot](https://github.com/sprokkel78/social-anxiety/blob/main/020.png)
 
-... to be continued ...
+- The rest is in the zip-files. Stay Strong! <3
