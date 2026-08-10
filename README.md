@@ -2,6 +2,8 @@
 
 . NEW
 
+![Screenshot](https://github.com/gtoyman/social-anxiety/blob/main/images/math.png)
+
 ![Screenshot](https://github.com/gtoyman/social-anxiety/blob/main/images/difficult_child.png)
 
 . ARCHIVE
