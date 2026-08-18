@@ -2,6 +2,8 @@
 
 . NEW
 
+![Screenshot](https://github.com/gtoyman/social-anxiety/blob/main/images/up_down_up.png)
+
 ![Screenshot](https://github.com/gtoyman/social-anxiety/blob/main/images/small_wins.png)
 
 ![Screenshot](https://github.com/gtoyman/social-anxiety/blob/main/images/math.png)
